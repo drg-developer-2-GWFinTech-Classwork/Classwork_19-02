@@ -17,14 +17,27 @@ You should see a transaction visualized like the following:
 
   * Transaction Inputs
 
+      tb1qz8k4jn88hug7zlg6etpj226s7x5yeksj0
+
   * Transaction Outputs (UTXOs)
 
-  * Transaction Fee
+      tb1q4jnaqh7kqkdl8etpuex96c0ngy8my2
 
-* Identify the UTXO that matches the `Amount Transacted` field at the top.
+      mnLVoPaQNgk7HBGJGo6pCL3mgCYNvXP
+
+  * Transaction Fee
+      
+      0.00014688 BTC
+
+ * Identify the UTXO that matches the `Amount Transacted` field at the top.
   This is the new Unspent Transaction Output that can be spent by the destination address.
 
+      9.42019056 BTC to
+      tb1q4jnaqh7kqkdl8etpuex96c0ngy8my2
+
 * Identify the address that the funds are ultimately being sent to.
+
+      mnLVoPaQNgk7HBGJGo6pCL3mgCYNvXPa
 
 * Repeat these steps with another transaction. See if you can decipher what is going on!
 
